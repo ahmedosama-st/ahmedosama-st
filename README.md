@@ -7,6 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
 </a>
 
+<br>
+<br>
+
 # Preferred Languages.
 
 <div>
@@ -17,6 +20,9 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/graphql%20-%23E0234E.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
 </div>
+
+<br>
+<br>
 
 # Preferred Frameworks.
 
@@ -34,6 +40,9 @@
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 </div>
+
+<br>
+<br>
 
 # Used Technologies
 
@@ -61,6 +70,9 @@
 
 </div>
 
+<br>
+<br>
+
 # Databases
 
 <div>
@@ -70,6 +82,9 @@
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
+<br>
+<br>
+
 # CI / CD
 
 <div>
@@ -77,6 +92,9 @@
 <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/envoyer-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </div>
+
+<br>
+<br>
 
 # Hosting
 
@@ -87,13 +105,12 @@
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 
----
-
----
+<br>
+<br>
 
 ## Reach me out
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ahmedosama_st?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ahmedosama_st?label=Followers&style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedosama-st?style=social)
 
