@@ -7,6 +7,8 @@
 [<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ahmedosama.sectheater/)
 [<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ahmedosama_st)
 [<img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/ahmed-osama-2004ab163/)
+[<img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@sec-ahmedosama)
+[<img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>](https://dev.to/ahmedosama_st)
 
 <br>
 <br>
@@ -128,3 +130,44 @@
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
+
+<br>
+<br>
+
+# YouTube courses
+
+<pre>
+
+ <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
+
+ <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-SOLID%20Principles-9999FF?style=for-the-badge&logo=apache-rocketMQ&logoColor=black"/>
+
+ <img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
+
+</pre>
+
+<br>
+<br>
+
+<br>
+<br>
+
+# Udemy courses
+
+## Coming soon
