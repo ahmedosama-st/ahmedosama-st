@@ -39,13 +39,25 @@
 
 <div>
 
- <img src="https://img.shields.io/badge/-Functional%20Programming-blue?style=for-the-badge&logo=azure-functions"/>
+ <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions"/>
 
- <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-red?logo=azure-functions&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable"/>
+
+ <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX"/>
+
+ <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
+
+ <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions"/>
+
+ <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge"/>
 
  <img src="https://img.shields.io/badge/-SOLID%20Principles-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
 
  <img src="https://img.shields.io/badge/-Design%20patterns-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
+
+ <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest"/>
+
+ <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
 
 </div>
 
