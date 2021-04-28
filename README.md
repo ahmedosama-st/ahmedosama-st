@@ -21,6 +21,7 @@
 # Preferred Frameworks.
 
 <div>
+
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
@@ -31,6 +32,20 @@
 <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+
+</div>
+
+# Used Technologies
+
+<div>
+
+ <img src="https://img.shields.io/badge/-Functional%20Programming-blue?style=for-the-badge&logo=azure-functions"/>
+
+ <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-red?logo=azure-functions&style=for-the-badge"/>
+
+ <img src="https://img.shields.io/badge/-SOLID%20Principles-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
+
+ <img src="https://img.shields.io/badge/-Design%20patterns-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
 
 </div>
 
@@ -59,3 +74,15 @@
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
+
+---
+
+---
+
+## Reach me out
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ahmedosama_st?label=Follow&style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/ahmedosama-st?style=social)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChqI6_K8XhCCe9aCtfBThHA?style=social)
