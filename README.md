@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
 </a>
 
-## Preferred Languages.
+# Preferred Languages.
 
 <div>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/graphql%20-%23E0234E.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
 </div>
 
-## Preferred Frameworks.
+# Preferred Frameworks.
 
 <div>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -34,7 +34,11 @@
 
 </div>
 
-## Databases
+# Implemented Technologies
+
+<div class="sl-block is-focused" data-block-type="image" data-name="image-f4c9a7" style="width: 49.1804px; height: 27.6722px; left: 935.41px; top: 526.164px; min-width: 1px; min-height: 1px;" wfd-id="145" data-origin-id="ff781de637e969d64a46561d2904a85f"><div class="sl-block-style" style="z-index: 11; transform: rotate(0deg);"><div class="sl-block-content" style="z-index: 11;" wfd-id="147"><img style="" data-natural-width="750" data-natural-height="422" data-lazy-loaded="" src="https://s3.amazonaws.com/media-p.slid.es/uploads/1578998/images/8295202/Untitled_design.png"></div></div></div>
+
+# Databases
 
 <div>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -43,7 +47,7 @@
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-## CI / CD
+# CI / CD
 
 <div>
 
@@ -51,7 +55,7 @@
 <img src="https://img.shields.io/badge/envoyer-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </div>
 
-## Hosting
+# Hosting
 
 <div>
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
