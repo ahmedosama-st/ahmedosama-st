@@ -24,6 +24,16 @@
 <br>
 <br>
 
+# Preferred Operating systems.
+
+<div>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu"/>
+<img src="https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=apple"/>
+</div>
+
+<br>
+<br>
+
 # Preferred Frameworks.
 
 <div>
@@ -32,11 +42,11 @@
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/NextJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next%20JS-black?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Express-23404d59?style=for-the-badge&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 </div>
@@ -48,23 +58,25 @@
 
 <div>
 
- <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions"/>
+ <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable"/>
+ <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX"/>
+ <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
 
- <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions"/>
+ <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-SOLID%20Principles-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
+ <img src="https://img.shields.io/badge/-SOLID%20Principles-9999FF?style=for-the-badge&logo=apache-rocketMQ&logoColor=black"/>
 
- <img src="https://img.shields.io/badge/-Design%20patterns-lightblue?style=for-the-badge&logo=apache-rocketMQ"/>
+ <img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest"/>
+ <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
 
