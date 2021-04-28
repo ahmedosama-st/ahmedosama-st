@@ -137,31 +137,29 @@
 # YouTube courses
 
 <pre>
-
- <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
-
- <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-SOLID%20Principles-9999FF?style=for-the-badge&logo=apache-rocketMQ&logoColor=black"/>
-
- <img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
-
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPeB4h6pvI5f9VfPOHqTLgzO">
+<img src="https://img.shields.io/badge/-PHP%20Basics-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPf5lpAnUDwbTYH4tuB-BN-v">
+<img src="https://img.shields.io/badge/-SQL%20Basics-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</a>
+<a href="https://youtu.be/AW8EkCBZI9Q">
+<img src="https://img.shields.io/badge/-Introduction%20To%20Problem%20Solving-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPeHwHi0RUTKzWKMn_M1t2-M">
+<img src="https://img.shields.io/badge/-JavaScript%20Basics-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+</a>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPem0qTCu8cNLd25-RTD7i5Q">
+<img src="https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+</a>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1">
+<img src="https://img.shields.io/badge/-PHP%20OOP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa">
+<img src="https://img.shields.io/badge/-Practical%20Tips%20Using%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a">
+<img src="https://img.shields.io/badge/-PHP%20MVC-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
 </pre>
-
 <br>
 <br>
 
