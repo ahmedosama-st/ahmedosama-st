@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+
+### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
+
+<br>
+
+[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ahmedosama.sectheater/)
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ahmedosama_st)
+[<img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/ahmed-osama-2004ab163/)
+
+<br>
+<br>
+<br>
 
 <a href="https://github.com/ahmedosama-st">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
@@ -116,14 +128,3 @@
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
-
-<br>
-<br>
-
-## Reach me out
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ahmedosama_st?label=Followers&style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/ahmedosama-st?style=social)
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChqI6_K8XhCCe9aCtfBThHA?style=social)
