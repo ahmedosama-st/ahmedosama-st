@@ -34,10 +34,6 @@
 
 </div>
 
-# Implemented Technologies
-
-<div class="sl-block is-focused" data-block-type="image" data-name="image-f4c9a7" style="width: 49.1804px; height: 27.6722px; left: 935.41px; top: 526.164px; min-width: 1px; min-height: 1px;" wfd-id="145" data-origin-id="ff781de637e969d64a46561d2904a85f"><div class="sl-block-style" style="z-index: 11; transform: rotate(0deg);"><div class="sl-block-content" style="z-index: 11;" wfd-id="147"><img style="" data-natural-width="750" data-natural-height="422" data-lazy-loaded="" src="https://s3.amazonaws.com/media-p.slid.es/uploads/1578998/images/8295202/Untitled_design.png"></div></div></div>
-
 # Databases
 
 <div>
