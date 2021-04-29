@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Next%20JS-black?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=black"/>
 
