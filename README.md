@@ -61,7 +61,6 @@
 
 <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-23404d59?style=for-the-badge&logo=express&logoColor=black"/>
-<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 </div>
 
@@ -75,6 +74,8 @@
  <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
  <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
 
