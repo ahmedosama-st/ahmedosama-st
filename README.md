@@ -4,11 +4,23 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ahmedosama.sectheater/)
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ahmedosama_st)
-[<img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/ahmed-osama-2004ab163/)
-[<img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@sec-ahmedosama)
-[<img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>](https://dev.to/ahmedosama_st)
+<p align ="center">
+  <a href ="https://www.facebook.com/ahmedosama.sectheater/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/ahmedosama_st">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/ahmed-osama-2004ab163/">
+  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://medium.com/@sec-ahmedosama">
+  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href ="https://dev.to/ahmedosama_st">
+  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+</p>
 
 <br>
 <br>
@@ -138,40 +150,16 @@
 
 # YouTube courses
 
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPeB4h6pvI5f9VfPOHqTLgzO">
-  <img src="https://img.shields.io/badge/-PHP%20Basics-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPf5lpAnUDwbTYH4tuB-BN-v">
-  <img src="https://img.shields.io/badge/-SQL%20Basics-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-</a>
-
-<a href="https://youtu.be/AW8EkCBZI9Q">
-  <img src="https://img.shields.io/badge/-Introduction%20To%20Problem%20Solving-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPeHwHi0RUTKzWKMn_M1t2-M">
-  <img src="https://img.shields.io/badge/-JavaScript%20Basics-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPem0qTCu8cNLd25-RTD7i5Q">
-  <img src="https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1">
-  <img src="https://img.shields.io/badge/-PHP%20OOP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa">
-  <img src="https://img.shields.io/badge/-Practical%20Tips%20Using%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a">
-  <img src="https://img.shields.io/badge/-PHP%20MVC-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<br>
-<br>
+|                                                                                            Course                                                                                             |          Level           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: |
+|          [![](https://img.shields.io/badge/-PHP%20Basics-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPeB4h6pvI5f9VfPOHqTLgzO)          |         Beginner         |
+|         [![](https://img.shields.io/badge/-SQL%20Basics-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPf5lpAnUDwbTYH4tuB-BN-v)         | Beginner to intermediate |
+|                 [![](https://img.shields.io/badge/-Introduction%20To%20Problem%20Solving-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtu.be/AW8EkCBZI9Q)                  | Beginner to intermediate |
+|   [![](https://img.shields.io/badge/-JavaScript%20Basics-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://youtube.com/playlist?list=PL7mt2FDjAkPeHwHi0RUTKzWKMn_M1t2-M)   |         Beginner         |
+|  [![](https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://youtube.com/playlist?list=PL7mt2FDjAkPem0qTCu8cNLd25-RTD7i5Q)  | Intermediate to advanced |
+|           [![](https://img.shields.io/badge/-PHP%20OOP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)            |       Intermediate       |
+| [![](https://img.shields.io/badge/-Practical%20Tips%20Using%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa) |        All levels        |
+|           [![](https://img.shields.io/badge/-PHP%20MVC-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)            |        All levels        |
 
 <br>
 <br>
