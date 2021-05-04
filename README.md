@@ -65,16 +65,16 @@
 
 <div>
 
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Next%20JS-black?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express-23404d59?style=for-the-badge&logo=express&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
 
 </div>
 
