@@ -80,7 +80,7 @@
 <br>
 <br>
 
-# Used Technologies
+# Used Technologies/Tools
 
 <div>
 
@@ -96,6 +96,9 @@
 
  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
 
+ <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
+ <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=black"/>
+ <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
