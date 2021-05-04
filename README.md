@@ -108,7 +108,9 @@
 
  <img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge&logo=jest&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
 
