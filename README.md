@@ -53,7 +53,8 @@
 # Preferred Operating systems.
 
 <div>
-<img src="https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu"/>
+<img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora"/>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=apple"/>
 </div>
 
