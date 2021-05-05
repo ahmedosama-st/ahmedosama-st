@@ -168,4 +168,4 @@
 
 # Udemy courses
 
-## Coming soon
+## [The real functional JavaScript](https://github.com/ahmedosama-st/the-real-functional-javascript) - Coming soon
