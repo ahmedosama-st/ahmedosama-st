@@ -26,6 +26,10 @@
 <br>
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama-st" align="right" width="45%" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&v=2&langs_count=4&custom_title=Ahmed%27s%20week%20stats" align="left" width="45%" />
+
 <a href="https://github.com/ahmedosama-st">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
 </a>
