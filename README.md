@@ -27,19 +27,19 @@
 <br>
 
 <a href="https://github.com/ahmedosama-st">
-  <img style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
 </a>
 
 <a href="https://github.com/ahmedosama-st">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
 </a>
 
 <a href="https://github.com/ahmedosama-st">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&v=2&langs_count=4&custom_title=Ahmed%27s%20week%20stats" /> 
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&v=2&langs_count=4&custom_title=Ahmed%27s%20week%20stats" /> 
 </a>
 
 <a href="https://github.com/ahmedosama-st">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama-st" />
+  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama-st" />
 </a>
 
 <br>
