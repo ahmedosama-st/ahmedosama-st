@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=ahmedosama-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
 ### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
 
