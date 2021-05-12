@@ -27,12 +27,12 @@
 <br>
 
 <a href="https://github.com/ahmedosama-st">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
 </a>
 
-<a href="https://github.com/ahmedosama-st">
+<!-- <a href="https://github.com/ahmedosama-st">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
-</a>
+</a> -->
 
 <a href="https://github.com/ahmedosama-st">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&v=2&langs_count=4&custom_title=Ahmed%27s%20week%20stats" /> 
