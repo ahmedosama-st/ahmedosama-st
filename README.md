@@ -26,9 +26,11 @@
 <br>
 <br>
 
-<a href="https://github.com/ahmedosama-st">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
-</a>
+<p  align="center" >
+  <a href="https://github.com/ahmedosama-st">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
+  </a>
+</p>
 
 <!-- <a href="https://github.com/ahmedosama-st">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
