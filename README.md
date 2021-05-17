@@ -164,7 +164,7 @@
 <br>
 <br>
 
-# YouTube courses
+# Free courses
 
 |                                                                                            Course                                                                                             |          Level           |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: |
@@ -180,6 +180,6 @@
 <br>
 <br>
 
-# Udemy courses
+# Paid courses
 
 ## [The real functional JavaScript](https://github.com/ahmedosama-st/the-real-functional-javascript) - Coming soon
