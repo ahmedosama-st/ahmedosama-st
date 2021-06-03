@@ -160,26 +160,3 @@
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
-
-<br>
-<br>
-
-# Free courses
-
-|                                                                                            Course                                                                                             |          Level           |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: |
-|          [![](https://img.shields.io/badge/-PHP%20Basics-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPeB4h6pvI5f9VfPOHqTLgzO)          |         Beginner         |
-|         [![](https://img.shields.io/badge/-SQL%20Basics-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPf5lpAnUDwbTYH4tuB-BN-v)         | Beginner to intermediate |
-|                 [![](https://img.shields.io/badge/-Introduction%20To%20Problem%20Solving-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtu.be/AW8EkCBZI9Q)                  | Beginner to intermediate |
-|   [![](https://img.shields.io/badge/-JavaScript%20Basics-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://youtube.com/playlist?list=PL7mt2FDjAkPeHwHi0RUTKzWKMn_M1t2-M)   |         Beginner         |
-|  [![](https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://youtube.com/playlist?list=PL7mt2FDjAkPem0qTCu8cNLd25-RTD7i5Q)  | Intermediate to advanced |
-|           [![](https://img.shields.io/badge/-PHP%20OOP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)            |       Intermediate       |
-| [![](https://img.shields.io/badge/-Practical%20Tips%20Using%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa) |        All levels        |
-|           [![](https://img.shields.io/badge/-PHP%20MVC-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)            |        All levels        |
-
-<br>
-<br>
-
-# Paid courses
-
-## [The real functional JavaScript](https://github.com/ahmedosama-st/the-real-functional-javascript) - Coming soon
