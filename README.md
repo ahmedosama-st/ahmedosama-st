@@ -48,7 +48,7 @@
 
 <br>
 
-<a href="https://wakatime.com/@f27968d4-098b-4429-89ac-32c4b5e8ccae"><img src="https://wakatime.com/badge/user/f27968d4-098b-4429-89ac-32c4b5e8ccae.svg" alt="Total time coded since May 10 2021" /></a>
+Total working hours (since 10th May 2021): <a href="https://wakatime.com/@f27968d4-098b-4429-89ac-32c4b5e8ccae"><img src="https://wakatime.com/badge/user/f27968d4-098b-4429-89ac-32c4b5e8ccae.svg" alt="Total time coded since May 10 2021" /></a>
 
 # Preferred Languages.
 
