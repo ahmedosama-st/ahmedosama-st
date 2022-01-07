@@ -37,7 +37,7 @@
 </a> -->
 
 <a href="https://github.com/ahmedosama-st">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&v=2&langs_count=4&custom_title=Ahmed%27s%20week%20stats" /> 
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&langs_count=4&custom_title=My%20week%20stats" /> 
 </a>
 
 <a href="https://github.com/ahmedosama-st">
