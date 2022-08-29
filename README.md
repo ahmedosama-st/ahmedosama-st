@@ -5,13 +5,7 @@
 <br>
 
 <p align ="center">
-  <a href ="https://www.facebook.com/ahmedosama.sectheater/">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href ="https://twitter.com/ahmedosama_st">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href ="https://www.linkedin.com/in/ahmed-osama-2004ab163/">
+  <a href ="https://www.linkedin.com/in/ahmed-osama-st/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href ="https://medium.com/@sec-ahmedosama">
@@ -51,7 +45,7 @@
 # Preferred Languages.
 
 <div>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/rust-E43716.svg?&style=for-the-badge&logo=rust&logoColor=white%22"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -85,44 +79,6 @@
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-
-</div>
-
-<br>
-<br>
-
-# Used Technologies/Tools
-
-<div>
-
- <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Observables-353E58?style=for-the-badge&logo=observable&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-
- <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Reactive%20Programming-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
-
- <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
- <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=black"/>
- <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-SOLID%20Principles-9999FF?style=for-the-badge&logo=apache-rocketMQ&logoColor=black"/>
-
- <img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/>
- <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
 
 </div>
 
